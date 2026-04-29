@@ -1,4 +1,5 @@
 window.addEventListener("Resize", olhar_largura);
+
 const botao = document.getElementById("botao-ok");
 botao.addEventListener("click", exibir_mensagem)
 const paragrafo = document.getElementById("paragrafo");
